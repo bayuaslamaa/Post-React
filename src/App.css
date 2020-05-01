@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.container.card{
+  display: flex;
+  order: 3
+}
+
+.container.card-component{
+  /* flex-flow:column wrap;
+  */
+  order: 3
+}
